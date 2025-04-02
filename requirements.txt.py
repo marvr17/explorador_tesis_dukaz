@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+wordcloud
+fpdf
+python-dateutil
+dateparser
+openpyxl
+XlsxWriter
